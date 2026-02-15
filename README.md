@@ -1,71 +1,19 @@
-# 👋 Hi, I'm Adila Ramdhan M
+# Halo semua! 
+ 
+Perkenalkan nama saya **Adila Ramdhan Ma'ruf**.<br>
+ 
+Saya adalah **Mahasiswa Informatika** semester 6.<br>
 
-🎓 Informatics Student | 💻 Tech Enthusiast | 🚀 Future Software Developer  
+Saya memiliki ketertarikan besar pada Artificial Intelligence dan Cybersecurity.<br>
 
-Saya adalah mahasiswa Informatika semester 5 yang tertarik pada pengembangan software, networking, dan IoT. Saya senang belajar teknologi baru dan membangun project yang bermanfaat.
-
----
-
-## 🚀 About Me
-
-- 🎓 Mahasiswa Informatika Semester 5  
-- 💡 Tertarik pada Software Development & Networking  
-- 🔧 Pernah membuat project berbasis NodeMCU ESP8266  
-- 📚 Sedang memperdalam Git, Web Development, dan Struktur Data  
-- 🎯 Target: Menjadi Software Developer profesional  
-
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Programming Languages
-- C++
-- Python
-- JavaScript (Basic)
-
-### 🌐 Web Development
-- HTML
-- CSS
-- PHP (Basic)
-
-### 🌍 Networking
-- Cisco Packet Tracer
-- LAN Topology Design
-
-### 🧰 Tools
-- Git & GitHub
-- Arduino IDE
-- VS Code
-
----
-
-## 📂 Featured Projects
-
-### 🕒 Digital Clock with NodeMCU ESP8266
-Project jam digital menggunakan NodeMCU ESP8266 dan Display TM1637 tanpa RTC dan tanpa NTP.
-
-**Tech Used:**  
-`C++` `Arduino IDE` `ESP8266`
-
----
-
-### 🌐 Analisis Jaringan LAN SMPN 2 Wanadadi
-Perancangan dan analisis jaringan Local Area Network menggunakan Cisco Packet Tracer.
-
-**Tech Used:**  
-`Cisco Packet Tracer` `Network Design`
-
----
-
-### 📝 TOEFL Like Web App (On Progress 🚧)
-Aplikasi berbasis web untuk latihan TOEFL dengan fitur listening, structure, dan reading.
-
-**Tech Used:**  
-`HTML` `CSS` `JavaScript` `Backend (Planned)`
-
----
-
-## 📊 Currently Learning
-
-- Struktur Data & Algoritma  
-- Dasar AI & D
+Saya fokus mengembangkan kemampuan di bidang machine learning, analisis data, dan keamanan jaringan untuk membangun sistem yang cerdas dan aman..<br>
+ 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Github](https://github.com/Rebenom)ku ya.
+ 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
